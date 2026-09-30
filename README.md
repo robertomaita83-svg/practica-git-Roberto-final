@@ -9,3 +9,4 @@
 Proyecto práctico para aprender a utilizar
 Git y GitHub, gestionar versiones,
 crear ramas y trabajar con repositorios.
+Actualización realizada directamente desde GitHub para la práctica de control de versiones.
